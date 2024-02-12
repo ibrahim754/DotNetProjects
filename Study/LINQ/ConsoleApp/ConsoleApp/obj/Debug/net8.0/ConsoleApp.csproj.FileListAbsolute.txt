@@ -1,0 +1,14 @@
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+F:\C#\C#_Projects\Study\LINQ\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
