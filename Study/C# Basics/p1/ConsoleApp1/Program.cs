@@ -9,11 +9,9 @@ namespace ConsolApp1 // Note: actual namespace depends on the project name.
     {
         public static void Main(string[] args)
         {
-            Debugging d = new Debugging();
-            d.distrbute();
- 
+            Manager m = new Manager();
 
-        }
+         }
       
 
         public void EventTest()
